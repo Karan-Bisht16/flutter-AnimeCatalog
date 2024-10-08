@@ -21,26 +21,24 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 2.0),
-      child: Expanded(
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.center,
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            FutureBuilder(
-              future: loadData(),
-              builder: (context, snapshot) {
-                if (snapshot.connectionState == ConnectionState.done) {
-                  final animes = snapshot.data;
-                  return AnimeContainer(animes: animes);
-                } else {
-                  return const CircularProgressIndicator.adaptive(
-                    valueColor: AlwaysStoppedAnimation(Color(0xFF27A2F7)),
-                  );
-                }
-              },
-            ),
-          ],
-        ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          FutureBuilder(
+            future: loadData(),
+            builder: (context, snapshot) {
+              if (snapshot.connectionState == ConnectionState.done) {
+                final animes = snapshot.data;
+                return AnimeContainer(animes: animes);
+              } else {
+                return const CircularProgressIndicator.adaptive(
+                  valueColor: AlwaysStoppedAnimation(Color(0xFF27A2F7)),
+                );
+              }
+            },
+          ),
+        ],
       ),
     );
   }
