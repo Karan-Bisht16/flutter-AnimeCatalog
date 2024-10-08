@@ -1,0 +1,374 @@
+{
+    "animes": [
+        {
+            "name": "Attack on Titan",
+            "description": "In a world where humanity resides within massive walled cities to protect themselves from giant humanoid creatures called Titans, a young boy named Eren Yeager vows to eradicate the Titans after witnessing the destruction of his hometown and the death of his mother.",
+            "coverImage": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest/scale-to-width-down/1000?cb=20211005182832",
+            "bestMoments": [
+                "Eren transforms into a Titan for the first time.",
+                "Levi's fight against the Beast Titan.",
+                "Revelation of the basement secrets.",
+                "Armin sacrifices himself to save the team.",
+                "Eren's speech in Marley."
+            ],
+            "characters": [
+                {
+                    "name": "Eren Yeager",
+                    "characterImage": "https://i2.wp.com/thegordonreview.com/wp-content/uploads/2021/04/IMG_1849.jpg?fit=960%2C960",
+                    "quality": "Determined and vengeful, willing to go to any lengths to achieve freedom."
+                },
+                {
+                    "name": "Mikasa Ackerman",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLdo4WuHb793S3tFMAG6DNTU_GmIa0XBebg&s",
+                    "quality": "Loyal and protective, with unmatched combat skills."
+                },
+                {
+                    "name": "Armin Arlert",
+                    "characterImage": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b2/Armin_Arlert_character_image_%28850%29.png/revision/latest/scale-to-width/360?cb=20180819020938",
+                    "quality": "Intelligent and strategic, values peace and understanding."
+                },
+                {
+                    "name": "Levi Ackerman",
+                    "characterImage": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f9/Levi_Ackerman_character_image_%28850%29.png/revision/latest/scale-to-width/360?cb=20200802170040",
+                    "quality": "Ruthless and efficient, known as humanity's strongest soldier."
+                },
+                {
+                    "name": "Erwin Smith",
+                    "characterImage": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/18/Erwin_Smith_character_image.png/revision/latest?cb=20190514212751",
+                    "quality": "Charismatic leader, willing to make difficult decisions for the greater good."
+                }
+            ],
+            "myRating": 10
+        },
+        {
+            "name": "Chainsaw Man (Manga)",
+            "description": "Denji, a young man drowning in debt, merges with his pet devil Pochita to become the Chainsaw Man. He is recruited by the Public Safety Devil Hunters to fight against devils threatening humanity.",
+            "coverImage": "https://pbs.twimg.com/media/FcbQ5ZgWIAImt70?format=jpg&name=medium",
+            "bestMoments": [
+                "Denji's first transformation into Chainsaw Man.",
+                "Battle against the Bat Devil.",
+                "Power’s tragic backstory revelation.",
+                "Denji and Aki vs. the Katana Man.",
+                "Makima's true nature revealed."
+            ],
+            "characters": [
+                {
+                    "name": "Denji",
+                    "characterImage": "https://i.quotev.com/7six42ni35ka.jpg",
+                    "quality": "Reckless and simple-minded, driven by basic desires but with a strong sense of loyalty."
+                },
+                {
+                    "name": "Power",
+                    "characterImage": "https://pbs.twimg.com/media/FEkv82qXwAgGBK2.jpg",
+                    "quality": "Chaotic and unpredictable, loves blood and violence but has a soft spot for Denji."
+                },
+                {
+                    "name": "Aki Hayakawa",
+                    "characterImage": "https://i.pinimg.com/originals/ab/0c/70/ab0c7027f2abb33dd3cc99d12fb4a437.jpg",
+                    "quality": "Calm and composed, driven by a sense of justice and a desire for revenge."
+                },
+                {
+                    "name": "Makima",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDzPzI-_pdKsk9JFuhwQ4ld1mB5KmLa9YmyuZHeW9ZbWGwN9RuzqRJCzeoD0xer1dTQk&usqp=CAU",
+                    "quality": "Mysterious and manipulative, has a hidden agenda and incredible power."
+                },
+                {
+                    "name": "Pochita",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jbsn3S5Dfd3x680OvwbRd7Z1q8s-QbWdcw&s",
+                    "quality": "Loyal and self-sacrificing, embodies the pure form of Denji’s desires."
+                }
+            ],
+            "myRating": 9
+        },
+        {
+            "name": "Jujutsu Kaisen",
+            "description": "Yuji Itadori, a high school student with incredible physical abilities, becomes involved in the world of Jujutsu Sorcerers when he swallows a cursed object—a finger of Sukuna, the King of Curses. He must learn to control his newfound powers and fight against malevolent curses.",
+            "coverImage": "https://pbs.twimg.com/media/GYZ-SkNaMAEmrNw?format=jpg&name=medium",
+            "bestMoments": [
+                "Yuji’s first fight with Sukuna.",
+                "Gojo vs. Jogo demonstrating Gojo's immense power.",
+                "Yuji and Nobara vs. the Cursed Womb: Death Paintings.",
+                "Yuji vs. Mahito's final confrontation.",
+                "Gojo’s unsealing and the Shibuya Incident."
+            ],
+            "characters": [
+                {
+                    "name": "Yuji Itadori",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGsRsvzeUEEukQVguqwgh2e_tGt6EJOzlhQ&s",
+                    "quality": "Compassionate and strong-willed, determined to save others at any cost."
+                },
+                {
+                    "name": "Megumi Fushiguro",
+                    "characterImage": "https://i.pinimg.com/736x/61/90/63/61906331aa9597088d74e40e7ab1fdb3.jpg",
+                    "quality": "Stoic and serious, values justice and believes in saving people he deems worthy."
+                },
+                {
+                    "name": "Nobara Kugisaki",
+                    "characterImage": "https://i.pinimg.com/originals/14/31/3e/14313ed690ddc9994a276b5a503f6bab.jpg",
+                    "quality": "Bold and confident, loves her individuality and fights with a strong sense of self."
+                },
+                {
+                    "name": "Satoru Gojo",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgzRcZTqdtiszfK6LUOBJnCxGZbiuS2dA5g&s",
+                    "quality": "Extremely powerful and eccentric, values his students and fights for a better world."
+                },
+                {
+                    "name": "Sukuna",
+                    "characterImage": "https://i.pinimg.com/564x/48/b7/b3/48b7b35048842764a85898500a3f8eef.jpg",
+                    "quality": "Malevolent and arrogant, sees humans as insignificant and enjoys causing chaos."
+                }
+            ],
+            "myRating": 8
+        },
+        {
+            "name": "Mob Psycho 100",
+            "description": "Shigeo Kageyama, known as Mob, is an average middle school boy with powerful psychic abilities. He tries to live a normal life while keeping his emotions in check, but as his suppressed feelings reach 100%, his psychic powers go out of control.",
+            "coverImage": "https://pbs.twimg.com/media/EoRS5d5XcAMRHj7?format=jpg&name=large",
+            "bestMoments": [
+                "Mob's first explosion at 100%.",
+                "Mob vs. Teru in the school.",
+                "Reigen's surprising revelation during the Claw arc.",
+                "Mob's confrontation with the Claw leader.",
+                "The emotional conclusion of Season 2."
+            ],
+            "characters": [
+                {
+                    "name": "Shigeo Kageyama (Mob)",
+                    "characterImage": "https://a.storyblok.com/f/178900/600x396/7c30150c91/a2579b0d640a4968425842b6d97df0741513703291_full.jpg/m/600x396",
+                    "quality": "Reserved and kind-hearted, struggles with self-confidence but possesses immense psychic power."
+                },
+                {
+                    "name": "Reigen Arataka",
+                    "characterImage": "https://pbs.twimg.com/media/FeelM3NWIAA1Z6v.jpg",
+                    "quality": "Charismatic and resourceful, a con artist who genuinely cares for Mob."
+                },
+                {
+                    "name": "Ritsu Kageyama",
+                    "characterImage": "https://static.wikia.nocookie.net/mob-psycho-100/images/b/b0/Ritsu_New_Manga_3.png/revision/latest?cb=20210413145024",
+                    "quality": "Ambitious and competitive, admires and resents Mob's abilities."
+                },
+                {
+                    "name": "Teruki Hanazawa (Teru)",
+                    "characterImage": "https://static.wikia.nocookie.net/mob-psycho-100/images/c/cb/TeruHair3_%28manga%29.png/revision/latest/scale-to-width-down/250?cb=20191122175323",
+                    "quality": "Arrogant and confident, learns humility after losing to Mob."
+                },
+                {
+                    "name": "Dimple",
+                    "characterImage": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/40/Dimple.png/revision/latest?cb=20221111163010",
+                    "quality": "Trickster spirit, initially selfish but becomes a helpful ally to Mob."
+                }
+            ],
+            "myRating": 10
+        },
+        {
+            "name": "Berserk (upto Golden Age Arc)",
+            "description": "Guts, a lone mercenary with a tragic past, battles his way through a dark medieval world filled with demons, corrupt nobility, and his inner turmoil. He joins the Band of the Hawk, only to find himself caught in a horrific fate.",
+            "coverImage": "https://pbs.twimg.com/media/EXEsI5AWoAA1kTt?format=jpg&name=small",
+            "bestMoments": [
+                "Guts' fight against 100 soldiers.",
+                "The Eclipse event and betrayal of the Band of the Hawk.",
+                "Guts' battle with Zodd.",
+                "The Berserker Armor activation.",
+                "Guts' and Casca's reunion."
+            ],
+            "characters": [
+                {
+                    "name": "Guts",
+                    "characterImage": "https://pbs.twimg.com/media/E6LilUnX0Assyw_.jpg",
+                    "quality": "Strong-willed and relentless, driven by revenge and the will to survive."
+                },
+                {
+                    "name": "Casca",
+                    "characterImage": "https://i.pinimg.com/474x/82/d6/7d/82d67d3b105670396a822dc1e1e83c42.jpg",
+                    "quality": "Loyal and determined, struggles with her feelings for Guts and Griffith."
+                },
+                {
+                    "name": "Griffith",
+                    "characterImage": "https://i.pinimg.com/564x/cf/f9/ea/cff9ea4f7f2e9a7e9fd95cfc6c4d7e1a.jpg",
+                    "quality": "Charismatic and ambitious, willing to sacrifice anything for his dream."
+                },
+                {
+                    "name": "Skull Knight",
+                    "characterImage": "https://i.pinimg.com/564x/21/76/b9/2176b98a1c27178e8446488b21024388.jpg",
+                    "quality": "Mysterious and wise, acts as a guide and protector."
+                },
+                {
+                    "name": "Judeau",
+                    "characterImage": "https://i.pinimg.com/736x/cf/9a/4d/cf9a4d0ef99d0a24d5fa9a39f3e0edea.jpg",
+                    "quality": "Dedicated Band of the Falcon member with keen perception and self-awareness."
+                }
+            ],
+            "myRating": 9.5
+        },
+        {
+            "name": "Vinland Saga",
+            "description": "A young Viking warrior named Thorfinn seeks revenge against Askeladd, the man who killed his father. Along the way, he gets entangled in the politics and battles of the Viking age.",
+            "coverImage": "https://preview.redd.it/anyone-has-full-size-hd-4k-portrait-of-this-wallpaper-v0-ehi4fogiz2hd1.jpeg?width=640&crop=smart&auto=webp&s=987e319fd2717d5dc375bb4f96d9cfc3b310390e",
+            "bestMoments": [
+                "Thorfinn's duel with Askeladd.",
+                "Askeladd's backstory revelation.",
+                "The intense battle against Thorkell.",
+                "Askeladd's sacrifice for Wales.",
+                "The cliffhanger ending of Season 1."
+            ],
+            "characters": [
+                {
+                    "name": "Thorfinn",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrQ4DIvctyQR66bcpmR8TywBjJvLh1lKoCw&s",
+                    "quality": "Driven and tenacious, he dedicates his life to avenging his father’s death."
+                },
+                {
+                    "name": "Askeladd",
+                    "characterImage": "https://i.pinimg.com/474x/88/28/e8/8828e8b232bb75fb5a994c3d981fedc9.jpg",
+                    "quality": "Cunning and ruthless, he commands a band of mercenaries and harbors a complex background."
+                },
+                {
+                    "name": "Thorkell",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv6ep2bQRNkif6pY7mLubN4qYmczPOnIqGug&s",
+                    "quality": "Brutal and enthusiastic in battle, he is both a formidable foe and an ally to Thorfinn."
+                },
+                {
+                    "name": "Canute",
+                    "characterImage": "https://static.wikia.nocookie.net/vinlandsaga/images/6/63/Canute1021.png/revision/latest?cb=20240705014742",
+                    "quality": "Initially timid, he evolves into a strong and decisive leader."
+                },
+                {
+                    "name": "Bjorn",
+                    "characterImage": "https://static.wikia.nocookie.net/vinlandsaga/images/b/bb/Bjorn%281%29.jpg/revision/latest?cb=20221123204522",
+                    "quality": "Loyal to Askeladd, he is a fierce warrior who gains strength from consuming berserker mushrooms."
+                }
+            ],
+            "myRating": 9.5
+        },
+        {
+            "name": "Your Lie in April",
+            "description": "Kosei Arima, a piano prodigy, loses his ability to hear the sound of the piano after his mother's death. His world changes when he meets a spirited violinist named Kaori Miyazono, who helps him rediscover his love for music.",
+            "coverImage": "https://subcultureentertainment.com/wp-content/uploads/2016/07/featureYour-Lie-In-April.jpg",
+            "bestMoments": [
+                "Kosei and Kaori's first performance together.",
+                "Kosei overcoming his trauma to play piano again.",
+                "Kaori's emotional solo violin performance.",
+                "The revelation of Kaori's feelings.",
+                "The heartbreaking ending."
+            ],
+            "characters": [
+                {
+                    "name": "Kosei Arima",
+                    "characterImage": "https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/2/2f/C9_-_8.png/revision/latest?cb=20170205185933&path-prefix=es",
+                    "quality": "Talented but troubled, he struggles with the trauma of his past and learns to live and love again."
+                },
+                {
+                    "name": "Kaori Miyazono",
+                    "characterImage": "https://64.media.tumblr.com/de33af480419a07b9e758d5ebcb0a71c/43ef392e0ebc6847-c8/s540x810/2b442bf20be0249e3949b66123051514d0d02480.jpg",
+                    "quality": "Free-spirited and passionate, she brings color back into Kosei’s world with her music and lively personality."
+                },
+                {
+                    "name": "Tsubaki Sawabe",
+                    "characterImage": "https://www.nautiljon.com/images/manga_persos/00/90/sawabe_tsubaki_4509.webp",
+                    "quality": "Kosei's childhood friend, who has complex feelings of friendship and love for him."
+                }
+            ],
+            "myRating": 8.5
+        },
+        {
+            "name": "Haikyuu!!",
+            "description": "Hinata Shoyo, inspired by a volleyball ace known as 'The Little Giant,' joins his high school volleyball team to pursue his dream of playing in nationals. Despite his short stature, he learns to excel with the help of his rival and teammate, Kageyama.",
+            "coverImage": "https://pbs.twimg.com/media/ElcPwEVXgAY2FMW.jpg:large",
+            "bestMoments": [
+                "Hinata and Kageyama's first practice match.",
+                "Karasuno vs. Aoba Johsai match.",
+                "The intense training camp arc.",
+                "The Shiratorizawa match.",
+                "The exhilarating finale of Nationals."
+            ],
+            "characters": [
+                {
+                    "name": "Shoyo Hinata",
+                    "characterImage": "https://i.pinimg.com/474x/af/fc/e6/affce66a11d964686aad5e71458540dc.jpg",
+                    "quality": "Energetic and determined, he overcomes obstacles with his unbreakable spirit and agility."
+                },
+                {
+                    "name": "Tobio Kageyama",
+                    "characterImage": "https://static.wikia.nocookie.net/haikyuu/images/0/07/Tobio_Kageyama_Manga.png/revision/latest/scale-to-width/360?cb=20201210003311",
+                    "quality": "A perfectionist setter with immense talent, he learns to trust his teammates and work as part of a team."
+                },
+                {
+                    "name": "Daichi Sawamura",
+                    "characterImage": "https://static.wikia.nocookie.net/haikyuu/images/0/0c/Daichi_manga.jpg/revision/latest/scale-to-width/360?cb=20200613075005",
+                    "quality": "The captain and backbone of Karasuno, he leads with strength and compassion."
+                },
+                {
+                    "name": "Kei Tsukishima",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzRip2QTpOvv1N1OSYUImajHUF96h396e2Q&s",
+                    "quality": "Cynical and analytical, he gradually finds his own passion for the game."
+                }
+            ],
+            "myRating": 8
+        },
+        {
+            "name": "A Silent Voice",
+            "description": "After bullying a deaf girl named Shoko Nishimiya in elementary school, Shoya Ishida is ostracized by his peers. Years later, he sets out to make amends and find redemption.",
+            "coverImage": "https://lightintheattic.net/cdn/shop/files/tmp_2F1620669639172-pfn48bjdrvp-f32302eb4a0bac81de5db46c9b750e38_2FaSilentVoiceVinyl_2B_2D_FLAT_Nobellyband.jpg?v=1690529606",
+            "bestMoments": [
+                "Shoya's initial encounter with Shoko.",
+                "Shoya's realization of his wrongdoings.",
+                "The firework festival and Shoko's attempted suicide.",
+                "The reconciliation between Shoya and Shoko.",
+                "The hopeful ending scene."
+            ],
+            "characters": [
+                {
+                    "name": "Shoya Ishida",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzRip2QTpOvv1N1OSYUImajHUF96h396e2Q&s",
+                    "quality": "Remorseful and introspective, he struggles to overcome his guilt and find forgiveness."
+                },
+                {
+                    "name": "Shoko Nishimiya",
+                    "characterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47jDKHnaApsjRol1bEJxzHhFhFlLohvDZ8w&s",
+                    "quality": "Kind and forgiving, she faces challenges with resilience and strives to connect with others despite her disability."
+                },
+                {
+                    "name": "Yuzuru Nishimiya",
+                    "characterImage": "https://64.media.tumblr.com/f267e97f7edb3c780105f0c2c3fd88a7/42e688aa21117387-a8/s400x600/c5bee0542d962ccb3ce06978c66779c038299725.jpg",
+                    "quality": "Protective of her sister, she is initially wary of Shoya but eventually comes to accept his friendship."
+                },
+                {
+                    "name": "Tomohiro Nagatsuka",
+                    "characterImage": "https://i.pinimg.com/564x/ab/98/45/ab9845c622765c04ed3d9c15a49abdb9.jpg",
+                    "quality": "Shoya’s new friend, loyal and supportive, he helps Shoya navigate his path to redemption."
+                }
+            ],
+            "myRating": 8.5
+        },
+        {
+            "name": "Death Note",
+            "description": "Light Yagami, a high school student, discovers a mysterious notebook that grants him the power to kill anyone whose name he writes in it. As he tries to create a utopia free of crime, he faces off against the genius detective L.",
+            "coverImage": "https://jumpg-assets.tokyo-cdn.com/secure/title/100008/title_thumbnail_portrait_list/312265.jpg?hash=mfrkOFV54Q7_aLYW7-_pbQ&expires=2145884400",
+            "bestMoments": [
+                "Light's first use of the Death Note.",
+                "The confrontation between Light and L.",
+                "L's surprising death.",
+                "The suspenseful warehouse scene.",
+                "Light's final moments."
+            ],
+            "characters": [
+                {
+                    "name": "Light Yagami",
+                    "characterImage": "https://qph.cf2.quoracdn.net/main-qimg-63dff4a77f38cda689833e0c557f6dc6-lq",
+                    "quality": "Brilliant and ambitious, he becomes increasingly ruthless as he pursues his vision of a perfect world."
+                },
+                {
+                    "name": "L",
+                    "characterImage": "https://i.pinimg.com/736x/38/7a/11/387a11ba302934b37d0ae2f622a58a58.jpg",
+                    "quality": "Mysterious and highly intelligent, a master detective dedicated to uncovering Kira’s identity."
+                },
+                {
+                    "name": "Ryuk",
+                    "characterImage": "https://static.wikia.nocookie.net/deathnote/images/c/c6/Ryuk_Deathnote.jpg/revision/latest?cb=20160424045800",
+                    "quality": "A shinigami who enjoys watching the chaos unfold, he drops the Death Note into the human world out of boredom."
+                }
+            ],
+            "myRating": 8.5
+        }
+    ]
+}
