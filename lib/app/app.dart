@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:animecatalog/views/home.view.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:animecatalog/views/home.view.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
@@ -23,9 +23,10 @@ class App extends StatelessWidget {
               Text(
                 "My Anime Catalog",
                 style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 30,
-                    fontWeight: FontWeight.w400),
+                  color: Colors.white,
+                  fontSize: 30,
+                  fontWeight: FontWeight.w400,
+                ),
               ),
               Text(
                 "Because my opinion on fictional characters is vital!",
